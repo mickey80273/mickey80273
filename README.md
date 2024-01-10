@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on marketing research
 - 🌱 I’m currently learning Time Series Transformer and Causal Inference
-- 💬 Ask me about I'm currently a member of CFDA Lab
+- 💬 I'm currently a member of CFDA Lab
 - ⚡ Fun fact: I'm also currently a volunteer guide at Huashan 1914 Creative Park
